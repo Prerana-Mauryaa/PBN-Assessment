@@ -1,0 +1,5 @@
+2025/04/21 19:50:04 main.go:49: 📌 Region: us-east-1 | Retention: 1 mins | Prefixes: dev | Dry-run: true
+2025/04/21 19:50:06 main.go:79: 
+📦 Repository: my-test-repo
+2025/04/21 19:50:06 main.go:119: 🗑️ Old image to delete: sha256:69747b174b56bc170ca99a6d8e7a80e77a020c9702dda7e44a2154066a7a4dbe (Age: 27 minutes)
+2025/04/21 19:50:06 main.go:134: ℹ️ Dry-run mode: Skipped deletion of image sha256:69747b174b56bc170ca99a6d8e7a80e77a020c9702dda7e44a2154066a7a4dbe
